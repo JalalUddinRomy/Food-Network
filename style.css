@@ -1,0 +1,108 @@
+body{
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,orange);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color:white;
+    font-weight:800;
+}
+.orange-color{
+    color: orangered;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 90px;
+}
+#img1{
+    width: 90%;
+    padding-right: 100px;
+}
+.section1{
+    display: flex;
+    margin-bottom: 40px;
+}
+.section2{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: cadetblue;
+}
+
+.para-color{
+    color:rgb(255, 123, 0);
+    margin-bottom:90px;
+}
+h2{
+    font-size: 40px;
+    font-weight:900 ;
+    color: brown;
+}
+#img{
+    width: 45%;
+}
+#recipies{
+    text-align: center;
+}
+.section3{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    margin-bottom: 80px;
+}
+.third-width{
+    width: 30%;
+margin-left: 20px;
+padding: 20px 20px;
+border-radius: 30px;
+    
+}
+.third-width img{
+    width: 100%;
+}
+.shadow{
+    box-shadow: 10px 10px 30px gray;
+}
+.section4{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 40px;
+    box-shadow: 10px 10px 80px gray;
+    border-radius: 30px;
+    margin-bottom: 90px;
+}
+.width2{
+    width: 18%;
+    margin-left: 15%;
+    
+}
+h5{
+    font-size: xx-large;
+}
+footer{
+    text-align: center;
+    background-color: black;
+   padding: 10px 10px;
+}
+#network{
+    color: white;
+}
+
+
+
+
+
+
